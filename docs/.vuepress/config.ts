@@ -5,8 +5,8 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: '克喵Kemeow的小站',
-  description: '致力于分享资源和生活~',
+  title: 'kemiao blog',
+  description: '致力于分享资源和博客~',
 
   head: [
     // 配置站点图标
@@ -132,6 +132,17 @@ export default defineUserConfig({
       //     kotlin: true,     // ::: kotlin-repl
       //   },
       //   imageSize: 'local', // 启用 自动填充 图片宽高属性，避免页面抖动
+      // },
+
+      /**
+       * 为 Markdown 图像添加附加功能。
+       * @see https://theme-plume.vuejs.press/config/plugins/markdown-image/
+       */
+      // markdownImage: {
+      //   figure: true,       // 启用 figure
+      //   lazyload: true,     // 启用图片懒加载
+      //   mark: true,         // 启用图片标记
+      //   size: true,         // 启用图片大小
       // },
 
       /**

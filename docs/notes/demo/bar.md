@@ -1,7 +1,7 @@
 ---
 title: bar
-createTime: 2025/02/24 11:48:28
-permalink: /demo/682oasnh/
+createTime: 2025/03/02 21:05:36
+permalink: /demo/1pfbzm6z/
 ---
 
 [foo](./foo.md)

@@ -38,8 +38,8 @@ export default defineThemeConfig({
    */
   profile: {
     avatar: 'https://theme-plume.vuejs.press/plume.png',
-    name: '克喵Kemeow的小站',
-    description: '致力于分享资源和生活~',
+    name: 'kemiao blog',
+    description: '致力于分享资源和博客~',
     // circle: true,
     // location: '',
     // organization: '',
